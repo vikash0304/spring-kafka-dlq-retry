@@ -1,4 +1,4 @@
-package com.vikash.demo.springkafkadlqretryconsumer;
+package com.vikash.demo.retryconsumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
